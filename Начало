@@ -1,0 +1,6 @@
+# Результат 1
+import random
+from random import randint
+random.seed(104)
+s1 = randint(1, 6)
+print(s1)
